@@ -7,4 +7,4 @@
 - Arduino UNO
 - C++
 
-See **Showcase** folder.
+See **showcase** folder.
